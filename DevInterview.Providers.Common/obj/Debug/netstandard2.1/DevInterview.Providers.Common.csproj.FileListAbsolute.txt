@@ -1,0 +1,17 @@
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.deps.json
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.dll
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.pdb
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.csproj.AssemblyReference.cache
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.AssemblyInfoInputs.cache
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.AssemblyInfo.cs
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.csproj.CoreCompileInputs.cache
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.dll
+C:\Progetti\Texa\texa-web-devinterview\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.pdb
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.deps.json
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.dll
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\bin\Debug\netstandard2.1\DevInterview.Providers.Common.pdb
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.AssemblyInfoInputs.cache
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.AssemblyInfo.cs
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.csproj.CoreCompileInputs.cache
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.dll
+C:\Progetti\ambiente.it\DevInterview\DevInterview.Providers.Common\obj\Debug\netstandard2.1\DevInterview.Providers.Common.pdb

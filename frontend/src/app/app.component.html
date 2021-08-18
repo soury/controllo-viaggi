@@ -1,0 +1,58 @@
+<mat-toolbar>
+  Test pratico Ambiente.it
+</mat-toolbar>
+
+<mat-sidenav-container>
+  <mat-sidenav mode = "side" opened class="mat-elevation-z8">
+    <img class="avatar mat-elevation-z8" src="https://media-exp1.licdn.com/dms/image/C4E03AQFjrLkyTQBxXA/profile-displayphoto-shrink_800_800/0/1517532310939?e=1634774400&v=beta&t=xC6JyJdJEuRHOCPnnf1AA18dr9iRL2BWrNBX-PqVsM0" />
+
+    <h4 class="name">Sourazou Bountoulgou</h4>
+    <p class="designation">Full Stack Developer</p>
+
+    <mat-divider></mat-divider>
+    <button mat-button class="menu-button" routerLink="./">
+      <mat-icon>home</mat-icon>
+      <span>Home</span>
+    </button>
+    <!--button mat-button class="menu-button" routerLink="./">
+      <mat-icon>person</mat-icon>
+      <span>Profile</span>
+    </button>
+    <button mat-button class="menu-button" routerLink="./">
+      <mat-icon>info</mat-icon>
+      <span>About</span>
+    </button>
+    <mat-divider></mat-divider>
+    <button mat-button class="menu-button" routerLink="./">
+      <mat-icon>help</mat-icon>
+      <span>Help</span>
+    </button-->
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content mat-elevation-z8">
+      <h3>Controlli</h3>
+      <table class="table table-striped w-auto">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Merce</th>
+                <th>Passeggero</th>
+                <th>Quantita</th>
+                <th>Esito</th>
+            </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let controllo of controlli">
+            <th scope="row">{{ controllo.id }}</th>
+            <td>{{ controllo.categoria?.nome }}</td>
+            <td>{{ controllo.passeggero?.nome }} {{ controllo.passeggero?.cognome }}</td>
+            <td>{{ controllo.quantita }}</td>
+            <td>{{ controllo.esito?.esito }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+<router-outlet></router-outlet>
